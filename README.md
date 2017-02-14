@@ -4,6 +4,6 @@
 
 A layer of maptalks used for arcgis featurelayer.
 
-some instruction:
-1、The proxy/proxy.ashx file is used for cross-origin request
+some instruction:</br>
+1、The proxy/proxy.ashx file is used for cross-origin request</br>
 2、The demo file show a demo using maptalks.featurelayer.js
